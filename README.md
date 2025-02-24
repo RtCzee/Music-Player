@@ -29,8 +29,8 @@ This project utilizes the following technologies:
 
 1. **Clone the repository:** 🛜
    ```sh
-   git clone https://github.com/yourusername/web-music-player.git
-   cd web-music-player
+   git clone https://github.com/RtCzee/Music-Player.git
+   cd Music-Player
    ```
 
 2. **Install the dependencies:** 📦
